@@ -1,0 +1,8 @@
+node_modules/
+dist/
+preview.jpg
+.env
+.env.*
+!.env.example
+*.log
+.sites-runtime/
